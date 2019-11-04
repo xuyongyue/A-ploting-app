@@ -1,2 +1,2 @@
-# Alternative splicing
- Some codes about alternative splicing
+# an app for ploting
+it is
